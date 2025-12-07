@@ -1,0 +1,12 @@
+# Go build files
+bin/
+*.exe
+*.out
+
+# Temporary files
+*.log
+.DS_Store
+
+# IDE-related files
+.vscode/
+.idea/
